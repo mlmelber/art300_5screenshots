@@ -83,8 +83,10 @@ body {
     background-color:#F9F4E6;
   
     display: grid; 
-    grid-template-columns: 1fr 1fr 1fr; 
+    grid-template-columns: 2fr 1fr 1fr; 
     grid-gap: 10px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .activecontent_video {
@@ -98,4 +100,64 @@ body {
 .activecontent_fitbit {
     background-color: #FFBAA2;
     height: 285px;
+}
+
+.relateditems {
+    background-color:#F494AB;
+    height: 150px;
+    width: 97vw;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.newitems {
+    background-color:#365367;
+    height: 150px;
+    width: 97vw;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.random {
+    width: 97vw;
+    margin: auto;
+    margin-top: 10px;
+  
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-template-rows: 285px; 
+    grid-gap: 10px;
+  }
+
+  .random_newtech {
+      background-color: #E25D7C;
+  }
+  .random_cutehome {
+    background-color: #E25D7C;
+}
+  .random_inspo {
+  background-color: #E25D7C;
+}
+  .random_unique {
+  background-color: #E25D7C;
+}
+
+.shoppingtrends {
+    background-color:#FFBAA2;
+    height: 150px;
+    width: 97vw;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.amazon {
+    background-color: #365367;
+    height: 200px;
+    width: 97vw;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
