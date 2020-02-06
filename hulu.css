@@ -10,3 +10,222 @@ body {
     width: 100vw; 
     background-color: #F97B4F;
 }
+
+.bachelor {
+  height: 500px; 
+  background-color: #147587;  
+}
+
+.contents {
+background-color: #FECB5F; 
+width: 90vw;
+margin: auto;
+padding: 10px;
+margin-bottom: 40px;
+
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 200px;
+}
+
+.content {
+  background-color: #FECB5F;  
+}
+
+.oranges {
+  background-color: #F97B4F; 
+  width: 90vw;
+  margin: auto;
+  padding: 10px;
+  margin-bottom: 5px;
+  
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-template-rows: 200px;
+  }
+
+  .darkpurples {
+    background-color: #5C4C67; 
+    width: 90vw;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 40px;
+    
+      display: grid; 
+      grid-template-columns: 1fr 1fr 1fr 1fr; 
+      grid-template-rows: 65px;
+    }
+
+    .blues {
+      background-color: #147587; 
+      width: 90vw;
+      margin: auto;
+      padding: 10px;
+      margin-bottom: 5px;
+      
+        display: grid; 
+        grid-template-columns: 1fr 1fr 1fr 1fr; 
+        grid-template-rows: 200px;
+      }
+    
+      .lightpurples {
+        background-color: #85678C; 
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid; 
+          grid-template-columns: 1fr 1fr 1fr 1fr; 
+          grid-template-rows: 65px;
+        }
+
+      .keeps {
+        background-color: #FECB5F;
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-rows: 65px;
+      }
+
+      .unwatched {
+        background-color: #FF8260;
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-rows: 65px;
+      }
+
+      .featured {
+        background-color: #147587;
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-rows: 65px;
+      }
+
+      .originals {
+        background-color: #5C4C67; 
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid; 
+          grid-template-columns: 1fr 1fr 1fr 1fr; 
+          grid-template-rows: 270px;
+        }
+
+      .winnings {
+        background-color: #FF8260;
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-rows: 65px;
+      }
+
+      .comforts {
+        background-color: #85678C;
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-rows: 65px;
+      }
+
+      .raunchys {
+        background-color: #FECB5F;
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-rows: 65px;
+      }
+
+      .homes {
+        background-color: #147587;
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-rows: 65px;
+      }
+
+      .acclaimed {
+        background-color: #147587;
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-rows: 65px;
+      }
+
+      .romantics {
+        background-color: #5C4C67;
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-rows: 65px;
+      }
+
+      .newlys {
+        background-color: #FF8260;
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 40px;
+        
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-rows: 65px;
+      }
+
+      .tvs {
+        background-color: #85678C;
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 150px;
+        
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-rows: 65px;
+      }
+
+    .footer {
+      height: 45px;
+      background-color: #584053;
+    }
+      
