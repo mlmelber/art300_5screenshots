@@ -1,12 +1,101 @@
 body {
     font-family: sans-serif;
-    background-color: #F9F4E6
+    background-color: #F9F4E6;
     margin: 0;
     padding: 0;
   }
 
   .menu {
+    height: 35px;
+    background-color: #FFBAA2;
+
+    display: grid; 
+    grid-template-columns: 40px 1fr 40px; 
+    grid-template-rows: 35px;
+    padding-left: 30vw;
+    padding-right: 30vw;
+}
+
+.menu_all {
+    background-color: #F494AB;
+    
+}
+.menu_search {
+    background-color: #E25D7C;
+}
+.menu_magnify {
+    background-color: #F494AB;
+    
+}
+
+.subhead {
     height: 20px;
     width: 100vw; 
-    background-color: #FFBAA2
+    background-color: #F9F4E6;
+
+}
+
+.maincontents {
+    height: 200px;
+    width: 100vw;
+    background-color: #365367;
+    padding-top: 200px;
+    margin: auto;
+}
+
+.subcontent {
+    width: 97vw;
+    margin: auto;
+  
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-template-rows: 285px; 
+    grid-gap: 10px;
+  }
+
+  .subcontent_hi {
+      background-color: #FFBAA2;
+  }
+  .subcontent_recentlyviewed {
+    background-color: #FFBAA2;
+}
+.subcontent_preowned {
+    background-color: #FFBAA2;
+}
+
+.subcontentinfo {
+}
+
+.subcontentinfo_audible{
+    background-color: #F494AB;
+    height: 86px;
+}
+
+.subcontentinfo_vitamins{
+    background-color: #E25D7C;
+    height: 189px;
+    margin-top: 10px;
+}
+
+.activecontent {
+    width: 97vw;
+    margin-top: 98px;
+    background-color:#F9F4E6;
+  
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-gap: 10px;
+  }
+
+  .activecontent_video {
+      background-color: #E25D7C;
+      height: 285px;
+  }
+  .activecontent_active {
+    background-color: #365367;
+    height: 285px;
+}
+.activecontent_fitbit {
+    background-color: #FFBAA2;
+    height: 285px;
 }
