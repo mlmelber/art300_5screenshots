@@ -161,3 +161,87 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+.littlesomething {
+    background-color:#E25D7C;
+    height: 150px;
+    width: 97vw;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.matte_ad {
+    background-color:#FFBAA2;
+    height: 150px;
+    width: 70vw;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boxes {
+    width: 97vw;
+    margin: auto;
+    margin-top: 10px;
+  
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-template-rows: 285px; 
+    grid-gap: 10px;
+  }
+
+  .box_plant {
+      background-color: #365367;
+  }
+  .box_recycle {
+    background-color: #365367;
+}
+  .box_handmade {
+    background-color: #365367;
+}
+  .box_ces {
+    background-color: #365367;
+}
+
+.popularbrands {
+    background-color: #FFBAA2;
+    height: 150px;
+    width: 97vw;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wishlist {
+    background-color:#E25D7C;
+    height: 150px;
+    width: 97vw;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.newyears {
+    width: 97vw;
+    margin: auto;
+    margin-top: 10px;
+  
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-template-rows: 285px; 
+    grid-gap: 10px;
+  }
+
+  .newyear_homegym {
+      background-color: #F494AB;
+  }
+  .newyear_newyearres {
+    background-color: #F494AB;
+}
+  .newyear_homesolutions {
+    background-color: #F494AB;
+}
+  .newyear_chrispratt {
+    background-color: #F494AB;
+}
