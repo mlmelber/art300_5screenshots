@@ -245,3 +245,63 @@ body {
   .newyear_chrispratt {
     background-color: #F494AB;
 }
+
+.garden {
+    margin: auto;
+    margin-top: 10px;
+    width: 97vw;
+  
+    display: grid; 
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: 285px; 
+    grid-gap: 10px;
+}
+
+.garden_home {
+    background-color: #365367;
+    height: 150px; 
+    width: 76vw;
+}
+.garden_ad {
+    background-color: #FFBAA2;
+    height: 120px;
+    width: 20vw;
+}
+
+.pinkrectangle1 {
+    background-color: #E25D7C;
+    width: 100vw;
+    height: 22px;
+}
+
+.whiterectangle1 {
+    background-color: #F9F4E6;
+    width: 97vw;
+    height: 170px;
+}
+
+.pinkrectangle2 {
+    background-color: #E25D7C;
+    width: 100vw;
+    height: 22px;
+}
+
+.related {
+    background-color:#F494AB;
+    height: 200px;
+    width: 100vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.orangegap {
+    background-color: #FFBAA2;
+    width: 100vw;
+    height: 45px;
+}
+
+.footerinfo {
+    background-color: #365367;
+    width: 100vw;
+    height: 260px;
+}
