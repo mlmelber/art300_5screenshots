@@ -1,0 +1,229 @@
+body {
+    font-family: sans-serif;
+    background-color: #F1DFD7;
+    margin: 0;
+    padding: 0;
+  }
+
+  .header {
+    height: 70px;
+    width: 100vw; 
+    background-color: #FF6935;
+}
+
+  .agency {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 465px;
+  }
+
+  .agency_deskspace {
+      background-color:#D4E4FF;
+  }
+  .agency_description {
+    background-color:#387AFF;
+}
+
+  .help {
+      background-color: #132238;
+      height: 300px;
+      width: 100vw;
+  }
+
+  .tan {
+    background-color: #707070;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px;
+    grid-gap: .5px;
+  }
+
+  .tan_dentist {
+    background-color: #F1DFD7;
+  }
+  .tan_teamweirdo {
+    background-color: #F1DFD7;
+  }
+  .tan_ceo {
+    background-color: #F1DFD7;
+  }
+
+  .orange {
+    background-color: #707070;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px;
+    grid-gap: .5px;
+  }
+
+  .orange_pediatrics {
+    background-color: #FF6935;
+  }
+  .orange_sassyface {
+    background-color: #FF6935;
+  }
+  .orange_kcpop {
+    background-color: #FF6935;
+  }
+
+  .square {
+    background-color: #707070;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px;
+    grid-gap: .5px;
+  }
+
+  .square_corinth {
+    background-color: #F1DFD7;
+  }
+  .square_coffee {
+    background-color: #387AFF;
+  }
+  .square_rr {
+    background-color: #132238;
+  }
+
+  .block {
+    background-color: #707070;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px;
+    grid-gap: .5px;
+  }
+
+  .block_diy {
+    background-color: #132238;
+  }
+  .block_vadavoo {
+    background-color: #FF6935;
+  }
+  .block_boyette {
+    background-color: #F1DFD7;
+  }
+
+  .royalblue {
+    background-color: #707070;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px;
+    grid-gap: .5px;
+  }
+
+  .royalblue_valerie {
+    background-color: #387AFF;
+  }
+  .royalblue_brows {
+    background-color: #387AFF;
+  }
+  .royalblue_dogmom {
+    background-color: #387AFF;
+  }
+
+  .navy {
+    background-color: #707070;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px;
+    grid-gap: .5px;
+  }
+
+  .navy_jobsnob {
+    background-color: #132238;
+  }
+  .navy_ipad {
+    background-color: #132238;
+  }
+  .navy_breakfast {
+    background-color: #132238;
+  }
+
+  .getintouch {
+      background-color: #D4E4FF;
+      height: 260px;
+      width: 100vw;
+  }
+
+  .posts {
+    background-color: #707070;
+    height: 200px;
+    width: 100vw;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: .5px;
+  }
+
+  .orangeposts {
+  }
+
+  .orangepost_1 {
+      background-color: #FF6935;
+  }
+  
+  .blueposts {
+  }
+
+  .bluepost_1 {
+      background-color: #387AFF;
+  }
+
+
+  .orangepost_2 {
+    background-color: #FF6935;
+}
+
+  .bluepost_2 {
+    background-color: #387AFF;
+  }
+
+  .creamposts {
+  }
+
+  .creampost_1 {
+      background-color: #F1DFD7;
+  }
+  .creampost_2 {
+    background-color: #F1DFD7;
+}
+
+  .navyposts {
+  }
+  .navypost_1 {
+      background-color: #132238;
+  }
+  .navypost_2 {
+    background-color: #132238;
+}
+
+  .tangerineposts {
+  }
+
+  .tangerinepost_1 {
+      background-color: #FF6935;
+  }
+  .tangerinepost_2 {
+    background-color: #FF6935;
+}
+
+  .royalblueposts {
+  }
+
+  .royalbluepost_1 {
+      background-color: #387AFF;
+  }
+  .royalbluepost_2 {
+    background-color: #387AFF;
+}
+
+  .footer {
+    background-color: #F1DFD7;
+    width: 100vw;
+    height: 260px;
+}
