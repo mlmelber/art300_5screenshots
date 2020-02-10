@@ -1,0 +1,220 @@
+body {
+    font-family: sans-serif;
+    background-color: #18183C;
+    margin: 0;
+    padding: 0;
+  }
+
+  .topbar {
+    height: 35px;
+    width: 100vw; 
+    background-color: #DAC545;
+}
+
+  .header {
+        height: 80px;
+        width: 100vw; 
+        background-color: #353AA9;
+
+        display: grid; 
+         grid-template-columns: 1000px; 
+          grid-template-rows: 35px;
+          padding-left: 30vw;
+          padding-right: 30vw;
+}
+
+  .header_watchtype {
+      margin-top: 14px;
+      background-color: #F572B7;
+      height: 50px;
+      width: 50vw;
+  }
+
+  .introbox{
+      background-color: #F4F5F0;
+      height: 750px;
+  }
+
+  .watchbandcontainer {
+      background-color: #F572B7;
+      height: 400px;
+  }
+
+  .watchbandselection {
+      background-color: #DAC545;
+      height: 400px;
+}
+
+  .skinnypinkbar {
+      background-color: #F572B7;
+      height: 50px;
+      margin-bottom: 31px;
+}
+
+  .watchseries3 {
+      background-color: #353AA9;
+      height: 500px;
+  }
+
+  .titaniumwatch {
+      background-color: #DAC545;
+      height: 500px;
+      margin-bottom: 20px;
+  }
+
+  .series {
+      background-color: #18183C;
+
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 20px;
+  }
+
+  .series_nike {
+      background-color: #F572B7;
+      height: 460px;
+  }
+
+  .series_hermes {
+    background-color: #353AA9;
+    height: 460px;
+}
+
+  .colorand_info {
+      background-color: #18183C;
+      height: 250px;
+  }
+
+  .color {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .color_green {
+      background-color: #DAC545;
+      height: 45px;
+      width: 45px;
+      margin-top: 50px;
+      margin-left: 300px;
+  }
+
+  .color_blue {
+    background-color: #353AA9;
+    height: 45px;
+    width: 45px;
+    margin-top: 50px;
+    margin-left: 255px;
+}
+
+  .color_pink {
+    background-color: #F572B7;
+    height: 45px;
+    width: 45px;
+    margin-top: 50px;
+    margin-right: auto;
+}
+
+.info {
+    background-color: #18183C;
+    height: 250px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.info_delivery {
+    background-color: #F4F5F0;
+    height: 85px;
+    width: auto;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.info {
+    background-color: #18183C;
+    height: 250px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.info_card {
+    background-color: #F4F5F0;
+    height: 85px;
+    width: auto;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.info {
+    background-color: #18183C;
+    height: 250px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.info_personalsession {
+    background-color: #F4F5F0;
+    height: 85px;
+    width: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.newwatch {
+    background-color: #DAC545;
+    height: 330px;
+    width: 100vw;
+    margin-bottom: 20px;
+}
+
+.newwatchbands {
+    background-color: #353AA9;
+    height: 330px;
+    width: 100vw;
+    margin-bottom: 20px;
+}
+
+.applemusic {
+    background-color: #F572B7;
+    height: 330px;
+    width: 100vw;
+    margin-bottom: 20px;
+}
+
+.airpods {
+    background-color: #353AA9;
+    height: 330px;
+    width: 100vw;
+    margin-bottom: 600px;
+}
+
+.activity {
+    background-color: #18183C;
+}
+
+
+
+
+
+
+.threerings {
+    background-color: #353AA9;
+    height: 330px;
+    width: 100vw;
+    margin-bottom: 20px;
+}
+
+.appleresearch {
+    background-color: #DAC545;
+    height: 330px;
+    width: 100vw;
+    margin-bottom: 20px;
+}
+
+.applecard {
+    background-color: #F572B7;
+    height: 250px;
+    width: 100vw;
+}
