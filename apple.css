@@ -125,7 +125,7 @@ body {
 .info_delivery {
     background-color: #F4F5F0;
     height: 85px;
-    width: auto;
+    width: 300px;
     margin-left: 100px;
     margin-top: 10px;
 }
@@ -141,7 +141,7 @@ body {
 .info_card {
     background-color: #F4F5F0;
     height: 85px;
-    width: auto;
+    width: 300px;
     margin-left: 50px;
     margin-top: 10px;
 }
@@ -157,7 +157,7 @@ body {
 .info_personalsession {
     background-color: #F4F5F0;
     height: 85px;
-    width: auto;
+    width: 300px;
     margin-left: 100px;
     margin-right: 100px;
 }
