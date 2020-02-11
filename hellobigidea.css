@@ -158,6 +158,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-gap: .5px;
+    padding-bottom: .5px;
   }
 
   .orangeposts {
@@ -165,6 +166,7 @@ body {
 
   .orangepost_1 {
       background-color: #FF6935;
+      height: 100px;
   }
   
   .blueposts {
@@ -172,15 +174,22 @@ body {
 
   .bluepost_1 {
       background-color: #387AFF;
+      height: 100px;
+  }
+  .lowerpost{
+    border-top: 1px solid #707070;
+    margin-bottom: 260px;
   }
 
 
   .orangepost_2 {
     background-color: #FF6935;
+    height: 100px;
 }
 
   .bluepost_2 {
     background-color: #387AFF;
+    height: 100px;
   }
 
   .creamposts {
@@ -188,18 +197,22 @@ body {
 
   .creampost_1 {
       background-color: #F1DFD7;
+      height: 100px;
   }
   .creampost_2 {
     background-color: #F1DFD7;
+    height: 100px;
 }
 
   .navyposts {
   }
   .navypost_1 {
       background-color: #132238;
+      height: 100px;
   }
   .navypost_2 {
     background-color: #132238;
+    height: 100px;
 }
 
   .tangerineposts {
@@ -207,9 +220,11 @@ body {
 
   .tangerinepost_1 {
       background-color: #FF6935;
+      height: 100px;
   }
   .tangerinepost_2 {
     background-color: #FF6935;
+    height: 100px;
 }
 
   .royalblueposts {
@@ -217,13 +232,21 @@ body {
 
   .royalbluepost_1 {
       background-color: #387AFF;
+      height: 100px;
   }
   .royalbluepost_2 {
     background-color: #387AFF;
+    height: 100px;
 }
 
-  .footer {
-    background-color: #F1DFD7;
-    width: 100vw;
-    height: 260px;
+  .footerinfo {
 }
+
+  .rightsreserved {
+    margin-top: 200px;
+    height: 13px;
+    background-color: #FF6935;
+    width: 40vw;
+
+    margin-left: 30vw;
+  }
